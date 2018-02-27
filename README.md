@@ -13,6 +13,12 @@
 * [Ethereum project](https://www.ethereum.org/)
 * [How Ethereum will change the world (video)](https://reason.com/blog/2016/03/18/ethereum-lubin-freedom-consensys)
 
+
+**Google drive folkder for this project**
+
+* [https://drive.google.com/drive/u/0/folders/0AHRSTvAPeBwRUk9PVA](https://drive.google.com/drive/u/0/folders/0AHRSTvAPeBwRUk9PVA)
+
+
 **Current LETS system online**
 
 * [LETS Australia](https://communityexchange.net.au/)
