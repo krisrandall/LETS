@@ -73,6 +73,8 @@ The idea is that the buyer will initiate the "purchase" in their app, a QR code 
 
 So the app must have a local database of transactions, with a sync status field to keep track of the movement of the transactions to the chain.
 
+**TODO : define the JSON of the document that represents the transaction that gets signed**
+
 
 #### Resources
 
